@@ -3,5 +3,5 @@ package gohw
 import "fmt"
 
 func HelloWorld(){
-  fmt.Println("hello golang v1")
+  fmt.Println("hello golang v2")
 }
